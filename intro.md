@@ -34,7 +34,6 @@ Se instala en Windows siguiendo los siguientes pasos:
   <img src="image/intro/1686769579589.png" alt="" width="380">
 </div>
 
-
 Luego de cargarse, mostrará la siguiente pantalla con diversas aplicaciones
 
 <div style="text-align: center;">
