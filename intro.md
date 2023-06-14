@@ -25,13 +25,16 @@ Se instala en Windows siguiendo los siguientes pasos:
 <div style="text-align: center;">
   <img src="image/intro/1686769363313.png" alt="" width="580">
 </div>
+
 7. Completa la instalación: Haz clic en "Install" para comenzar la instalación. Una vez que la instalación esté completa, deberías poder usar Anaconda en tu computadora.
 
-8. Verifica la instalación. Busca si la aplicación Anaconda aparece entre las opciones de software instalado. Por ejemplo, dando click a la tecla de Windows (o Inicio) y tecleando "Anaconda". Si le das click, debería abrirse el siguiente icono (llamado Anaconda-navigator)
+8. Verifica la instalación. Busca si la aplicación Anaconda aparece entre las opciones de software instalado. Por ejemplo, dando click a la tecla de Windows (o Inicio) y tecleando "Anaconda".
 
 <div style="text-align: center;">
-  <img src="image/intro/1686769579589" alt="" width="580">
+  <img src="image/intro/1686769579589.png" alt="" width="380">
 </div>
+
+
 Luego de cargarse, mostrará la siguiente pantalla con diversas aplicaciones
 
 <div style="text-align: center;">
