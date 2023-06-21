@@ -1,4 +1,4 @@
-# Taller de introducción a Pyathon para el análisis de datos
+# Taller de introducción a Python para el análisis de datos
 
 Taller introductorio de 4 horas, en tres partes. Se impartirá en el marco del II Encuentro de Estudiantes de Análisis de la Conducta el 22 de junio en el Seminario Kantor del Centro de Estudios e Investigaciones en Comportamiento (CEIC) de la Universidad de Guadalajara. 
 
