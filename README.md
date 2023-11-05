@@ -2,7 +2,7 @@
 
 >Nota: Proyecto financiado por CONAHCyT a Emmanuel Alcalá (CVU 660431) con una beca de las Estancias Posdoctorales por México para la Formación y Consolidación de las y los Investigadores por México 2022(2).
 >
-Taller introductorio de 4 horas, en tres partes. Se impartirá en el marco del II Encuentro de Estudiantes de Análisis de la Conducta el 22 de junio en el Seminario Kantor del Centro de Estudios e Investigaciones en Comportamiento (CEIC) de la Universidad de Guadalajara. 
+Taller introductorio de 4 horas, en tres partes. 
 
 [Link de la grabación.](https://www.youtube.com/watch?v=KbMeTIJbbuE&ab_channel=EmmanuelAlcal%C3%A1)
 
